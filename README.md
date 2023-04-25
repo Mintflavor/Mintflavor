@@ -3,7 +3,7 @@
 ## Interest
 - Data Science
 - Computer Vision
-- NLP
+- Reinforcement Learning
 - Medical AI
 
 ## Work & Education
