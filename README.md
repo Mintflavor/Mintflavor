@@ -7,7 +7,8 @@
 - Medical AI
 
 ## Work & Education
-- 정우환 교수님 DSLAB 학부연구생 (2021.12 ~ )
+- 정우환 교수님 DSLAB 학부연구생 (2021.12 ~ 2023.02)
+- 정우환 교수님 DSLAB 석사과정 (2023.03 ~ )
 
 ## Award
 - [산업경영공학과 캡스톤디자인 공동 3위 (2022)](https://github.com/Mintflavor/2022-1-Capstone-Design)
